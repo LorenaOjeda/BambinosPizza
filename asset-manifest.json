@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BambinosPizza/static/css/main.2b7609c0.css",
+    "main.js": "/BambinosPizza/static/js/main.74540577.js",
+    "static/media/3.png": "/BambinosPizza/static/media/3.2296bddb5ce2108d99f3.png",
+    "static/media/pizzaChef.png": "/BambinosPizza/static/media/pizzaChef.9e13b604fa6dc7049d21.png",
+    "static/media/1.png": "/BambinosPizza/static/media/1.288f93e1d41fc4ac6fd6.png",
+    "static/media/pizzas.jpg": "/BambinosPizza/static/media/pizzas.f770a84cc26f25aef2a8.jpg",
+    "static/media/pizza_back.jpg": "/BambinosPizza/static/media/pizza_back.6f7eae4dfa827d9fc006.jpg",
+    "static/media/4.jpg": "/BambinosPizza/static/media/4.11895e523058dc2488bf.jpg",
+    "static/media/2.png": "/BambinosPizza/static/media/2.623c5581b3495905b898.png",
+    "static/media/logo_bambinos.png": "/BambinosPizza/static/media/logo_bambinos.f70348891d7b5531ea55.png",
+    "index.html": "/BambinosPizza/index.html",
+    "main.2b7609c0.css.map": "/BambinosPizza/static/css/main.2b7609c0.css.map",
+    "main.74540577.js.map": "/BambinosPizza/static/js/main.74540577.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7609c0.css",
+    "static/js/main.74540577.js"
+  ]
+}
